@@ -33,7 +33,7 @@ The HarmonyIQA dataset consists of:
 - Download out database (HarmonyIQAD): https://pan.baidu.com/s/13csu2M9KQrN-nIYmLNq59Q?pwd=0tn9
 
 ## Model
-The **HarmonyIQA Model** is trained to predict the perceptual quality of harmonized images, leveraging human ratings and deep learning techniques.
+The **HarmonyIQA Model** is trained to predict the perceptual quality of harmonized images, leveraging human ratings and deep learning techniques. HarmonyIQA is changed from InternVL2, with code modifications in modeling_internlm2.py.
 
 ## License
 TBA
