@@ -39,5 +39,5 @@ The **HarmonyIQA Model** is trained to predict the perceptual quality of harmoni
 TBA
 
 ## Contact
-For questions, please contact **Zitong Xu** at [your email/contact info].
+For questions, please contact **Zitong Xu** at [xzt20021124@icloud.com].
 
